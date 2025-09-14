@@ -31,6 +31,13 @@ It consists of a **FastAPI backend** and a **React + Tailwind CSS frontend**.
 - Tailwind CSS
 - Chart.js (for tide chart visualization)
 
+
+### API KEYS
+1. WorldTides API (for tide data)
+Go to: https://www.worldtides.info/apidocs
+
+2. OpenWeather API (for weather data)
+Go to: https://home.openweathermap.org/users/sign_up
 ---
 
 ## Project Structure
